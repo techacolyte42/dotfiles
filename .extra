@@ -1,0 +1,5 @@
+GIT_AUTHOR_NAME="Connor K. Wilson"
+GIT_COMMITTER_NAME="$GIT_AUTHOR_NAME"
+git config --global user.name "GIT_AUTHOR_NAME"
+GIT_AUTHOR_EMAIL="$connor.wilson@ohmygreen.com"
+git config --global user.email "$GIT_AUTHOR_EMAIL"
